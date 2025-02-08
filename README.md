@@ -8,6 +8,6 @@ The VR Rage Room, specifically harnesses VR's potential to provide a controlled 
 This project was completed in a group of two. We explored various aspects through user testing, such as whether using a tunneling effect helped reduce nausea, the experience with and without haptic feedback, and the interaction with objects using one arm, which is the default method. Additionally, we introduced the option to grab weapons with both hands. The efforts to improve the experience were well received during the user tests. The lab, full of fellow classmates stressed about major submissions, appreciated the world we created where they could wreak havoc.
 </p>
 
-|  <img  src="https://github.com/SharonGomez/rage-room/blob/main/Demos/slash-it.gif" width="450" height="400" />  <img  src="https://github.com/SharonGomez/rage-room/blob/main/Demos/break-it.gif" alt="Gif of breaking things in rage room" width="450" height="400" /> |
+|  <img  src="https://github.com/SharonGomez/rage-room/blob/main/Demos/slash-it.gif" />  <img  src="https://github.com/SharonGomez/rage-room/blob/main/Demos/break-it.gif" alt="Gif of breaking things in rage room" /> |
 |:--:| 
 | <p align="center"> Videos of the rage room while wearing Meta Quest 2</p>|
